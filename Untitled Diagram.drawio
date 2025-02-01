@@ -1,9 +1,102 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36" version="26.0.8">
   <diagram name="Page-1" id="h7-n61B7l2CUHQqXegjI">
-    <mxGraphModel>
+    <mxGraphModel dx="4300" dy="1740" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="oP5HUDN8-sFGJcISkpAp-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry width="820" height="1840" as="geometry" />
+        </mxCell>
+        <mxCell id="oP5HUDN8-sFGJcISkpAp-4" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry width="820" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oP5HUDN8-sFGJcISkpAp-7" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="490" y="15" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="oP5HUDN8-sFGJcISkpAp-8" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="414" y="15" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="oP5HUDN8-sFGJcISkpAp-9" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="620" y="15" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="oP5HUDN8-sFGJcISkpAp-12" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="690" y="20" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="oP5HUDN8-sFGJcISkpAp-13" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="20" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="oP5HUDN8-sFGJcISkpAp-14" value="LEXI AI" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="60" y="20" width="60" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="oP5HUDN8-sFGJcISkpAp-15" value="CALL" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="705" y="15" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="oP5HUDN8-sFGJcISkpAp-17" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="180" width="320" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="oP5HUDN8-sFGJcISkpAp-18" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="180" width="320" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="oP5HUDN8-sFGJcISkpAp-19" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Ielts dan yuqori ball ola olmayapsizmi ?&lt;/h1&gt;&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="40" y="70" width="700" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="oP5HUDN8-sFGJcISkpAp-22" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;LEXI CO AI qanday ishlaydi?&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-size: 12px; font-weight: normal;&quot;&gt;.&lt;/span&gt;&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="40" y="400" width="740" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="oP5HUDN8-sFGJcISkpAp-23" value="Vertical Container" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="580" y="500" width="200" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="oP5HUDN8-sFGJcISkpAp-25" value="Vertical Container" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="500" width="200" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="oP5HUDN8-sFGJcISkpAp-27" value="Vertical Container" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="500" width="200" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="oP5HUDN8-sFGJcISkpAp-30" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;TARTEEB + LEXI CO AI birga nimalar qila oladi?&lt;/h1&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="40" y="780" width="740" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="oP5HUDN8-sFGJcISkpAp-31" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;br&gt;&lt;/h1&gt;&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.&lt;br&gt;&lt;/p&gt;&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;/span&gt;&lt;/p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labo." style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="50" y="790" width="700" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="oP5HUDN8-sFGJcISkpAp-32" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Foydalanuvchilar fikirlari&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="245" y="1030" width="460" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="oP5HUDN8-sFGJcISkpAp-33" value="Vertical Container" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="1080" width="740" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="oP5HUDN8-sFGJcISkpAp-34" value="" style="shape=singleArrow;direction=west;whiteSpace=wrap;html=1;arrowWidth=0.5533207912071247;arrowSize=0.40046697878370596;" vertex="1" parent="1">
+          <mxGeometry x="350" y="1290" width="20" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="oP5HUDN8-sFGJcISkpAp-35" value="" style="shape=singleArrow;whiteSpace=wrap;html=1;arrowWidth=0.3950703054234509;arrowSize=0.31701859183933434;" vertex="1" parent="1">
+          <mxGeometry x="450" y="1290" width="20" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="oP5HUDN8-sFGJcISkpAp-38" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;biz bilan bog&#39;lanish&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="300" y="1350" width="250" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="oP5HUDN8-sFGJcISkpAp-39" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="1490" width="730" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="oP5HUDN8-sFGJcISkpAp-40" value="Raqamingiz" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="80" y="1490" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="oP5HUDN8-sFGJcISkpAp-41" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="1430" width="730" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="oP5HUDN8-sFGJcISkpAp-42" value="Ismingiz" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="70" y="1430" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="oP5HUDN8-sFGJcISkpAp-44" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="1550" width="730" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="oP5HUDN8-sFGJcISkpAp-45" value="YUBORISH" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="384" y="1550" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="oP5HUDN8-sFGJcISkpAp-47" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;font style=&quot;font-size: 36px;&quot;&gt;FOOTER&lt;/font&gt;&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="330" y="1694" width="180" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="oP5HUDN8-sFGJcISkpAp-48" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="560" y="15" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
